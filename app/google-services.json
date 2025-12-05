@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "428770414848",
+    "project_id": "productmanagerinfante",
+    "storage_bucket": "productmanagerinfante.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428770414848:android:77dc122d3a83738219e3e5",
+        "android_client_info": {
+          "package_name": "com.tecsup.productmanager_infante"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBECEdj2Kkne0F0QaLGf4eDAetvT8f3iFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
